@@ -1,6 +1,9 @@
 # **Kodluyoruz İlk Repo**
 
-Bu repo [Kodluyoruz](https://github.com/Esraers222/kodluyoruzilkrepo.git) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![Görsel](https://github.com/Esraers222/kodluyoruzilkrepo)
+
+
 
 ## **İnstallation**
 
@@ -23,6 +26,6 @@ Bu repo [Kodluyoruz](https://github.com/Esraers222/kodluyoruzilkrepo.git) Front-
  ##### **Licence**
 
  [MIT](https://github.com/Esraers222/kodluyoruzilkrepo/blob/5c90cf63362821e7a993536124cb9d992fe3a4f6/LICENSE)
- 
+
 
 
